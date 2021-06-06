@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-05T19:19:02.461Z</updated>
+  <updated>2021-06-06T16:28:30.901Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>怎么快速提升自己的计算机能力</title>
+    <link href="http://example.com/2021/06/07/%E6%80%8E%E4%B9%88%E5%BF%AB%E9%80%9F%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%83%BD%E5%8A%9B/"/>
+    <id>http://example.com/2021/06/07/%E6%80%8E%E4%B9%88%E5%BF%AB%E9%80%9F%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%83%BD%E5%8A%9B/</id>
+    <published>2021-06-06T16:19:07.000Z</published>
+    <updated>2021-06-06T16:28:30.901Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近一直在找工作，一处于一个很尴尬的局面，大的公司看不上我，小公司我又不想去。</p><p>我热爱技术，但是确实技术方面还是很差劲的。</p><p>在知乎上别的大佬早在大一大二期间就有谋划自己的职业技术。并且去得了我现在都还没有取得的技术。这真的很丢脸啊。虽说我自己也不是很菜，但是就是半吊子。处境很尴尬。</p><h1 id="怎么提升自己的计算机能力"><a href="#怎么提升自己的计算机能力" class="headerlink" title="怎么提升自己的计算机能力"></a>怎么提升自己的计算机能力</h1><p>看书，看视频<br>最经都在自居看书，看着看着都有种恍然大悟的感觉，但是也有很多知识没有理解，或者印象不是很深刻。这个估计是我看书没有留下产出造成的。看老以后还是得留下点什么东西。就算是很low也比没有好。<br>看视频可以说是一个很快的提升途径，但是这种途径留下的影响会更低。但是也是可以的。可以快速入门一种技术。</p><p>算法太弱了<br>就好像从来没有接触过算法。真的非常薄弱。</p><p>编程能力<br>写的代码挺少的</p><p>表达能力<br>表达不太好，这个得怎么提升呢。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近一直在找工作，一处于一个很尴尬的局面，大的公司看不上我，小公司我又不想去。&lt;/p&gt;
+&lt;p&gt;我热爱技术，但是确实技术方面还是很差劲的。&lt;/p&gt;
+&lt;p&gt;在知乎上别的大佬早在大一大二期间就有谋划自己的职业技术。并且去得了我现在都还没有取得的技术。这真的很丢脸啊。虽说我自己也不</summary>
+      
+    
+    
+    
+    
+    <category term="杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一遍博客</title>
